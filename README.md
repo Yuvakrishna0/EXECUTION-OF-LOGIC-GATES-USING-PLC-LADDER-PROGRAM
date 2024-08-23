@@ -74,9 +74,23 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+## NOT GATE:
+![Screenshot 2024-08-23 090516](https://github.com/user-attachments/assets/0367e05f-ee3e-485a-b5b4-e79c8a778ee5)
+
+## AND GATE:
+![Screenshot 2024-08-23 090701](https://github.com/user-attachments/assets/feb534e1-df55-41ba-9e8f-417d5674e9db)
+
+## OR GATE:
+![Screenshot 2024-08-23 090818](https://github.com/user-attachments/assets/269b69ca-13af-40d5-929e-c0c7f291a01e)
+
+## NAND GATE:
+![Screenshot 2024-08-23 091004](https://github.com/user-attachments/assets/17a1521c-44d1-4965-b426-f6cf6d84bebb)
+
+## XOR GATE:
+![Screenshot 2024-08-23 091302](https://github.com/user-attachments/assets/dc57cf48-6a7c-4f77-aea3-39142896455c)
 
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
